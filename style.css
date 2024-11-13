@@ -1,6 +1,11 @@
 #heading {
     background-color: aquamarine;
     color: red;
-    font-size: 54px;
+    font-size: 128px;
     text-align: center;
+}
+.big {
+    font-size: 72px;
+    color: black;
+    font-weight: bold;
 }
